@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 18,
+    "horizontalStartingIndex": 9,
+    "horizontalWrap": true,
+    "name": "flow.bip.2",
+    "type": "KeyShotXR",
+    "verticalFrames": 5,
+    "verticalStartingIndex": 1,
+    "verticalWrap": false
+}
